@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bernice! | Full-Stack Developer & Product Manager
+# 👋 Hi, I'm Bernice! | Software Engineer (Full-Stack) & Product Manager
 
 🚀 Passionate about building **scalable tech** with a **Product Mindset**  
 ☁️ Exploring **Azure Cloud** & **DevOps**  
