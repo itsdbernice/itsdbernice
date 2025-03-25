@@ -22,11 +22,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## 📈 GitHub Stats
-
-| [![Private Contributions](https://github-readme-stats.vercel.app/api?username=itsdbernice&count_private=true&show_icons=true&hide_border=true)](https://github.com/itsdbernice) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdbernice&layout=compact&hide_border=true)](https://github.com/itsdbernice) |
-|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-
 ## 🌟 Certifications & Badges 
 - **Microsoft Certified: Azure Fundamentals (in progress)**  
 - **Google Data Analytics**
