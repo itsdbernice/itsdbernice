@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 What I'm Building  
-[**GhostJob Hunter**](https://github.com/yourrepo) - AI-powered job market detective that exposes fake job postings with over 90% accuracy 💻🔍  
+[**GhostJob Hunter**](https://github.com/ghostjobhunter) - AI-powered job market detective that exposes fake job postings with over 90% accuracy 💻🔍  
 
 ### 🛠️ Product Expertise  
 - Led product strategy for Saas event planning platform  
