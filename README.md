@@ -4,7 +4,7 @@
 *Scientist → Product Strategist → Full-Stack Developer*
 
 ![ProductToCode](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
-*(Me turning user pain points into shipped features)*
+*(Turning user pain points into shipped features)*
 
 ---
 
